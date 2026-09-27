@@ -10,7 +10,7 @@
 const CSV_FILE        = "vokabeln.csv";
 const POINTS_PER_WORD = 10;   // FR-06
 const POINTS_PER_LEVEL = 100; // FR-07
-const MAX_LEVEL       = 5;    // FR-08
+const MAX_LEVEL       = 1;    // FR-08
 const START_LIVES     = 3;    // FR-09
 const TIME_PER_WORD   = 20;   // FR-05 (Sekunden)
 const FEEDBACK_DELAY  = 1500; // Anzeigedauer der Rückmeldung (ms)
