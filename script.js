@@ -6,6 +6,7 @@
    ========================================================= */
 
 // ---------- Konstanten ----------
+//test
 const CSV_FILE        = "vokabeln.csv";
 const POINTS_PER_WORD = 10;   // FR-06
 const POINTS_PER_LEVEL = 100; // FR-07
